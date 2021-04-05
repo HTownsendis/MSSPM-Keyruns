@@ -36,7 +36,7 @@ spec_names <- colnames(NOBA_sim_biomass[,2:ncol(NOBA_sim_biomass-1)])
 
 # Pop growth, r,  estimates
 pop_grow <- as.data.frame(read.csv2("Species_r.csv", sep=",", stringsAsFactors=F, header=TRUE))
-# pop_grow$species = row.names(pop_grow)
+pop_grow$species = spec_names
 pop_grow$r = as.numeric(pop_grow$r)
 
 
@@ -57,7 +57,7 @@ pop_change = B_long %>% group_by(species) %>% summarize(CP=biomass[which.max(bio
 
 ### Merge data frames and calculate K,  K = r * B * (1-B) / CP.
 K_calc <- pop_grow %>% left_join(B_max, by = "species") %>% 
-  inner_join(pop_change, by = "species")
+  left_join(pop_change, by = "species")
 K_calc$K_est = K_calc$r*K_calc$maxBiomass*(1-K_calc$maxBiomass)/K_calc$CP
 K_calc$KtoB = K_calc$K_est/K_calc$maxBiomass
 
