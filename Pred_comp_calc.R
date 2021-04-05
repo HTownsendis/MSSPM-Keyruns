@@ -20,8 +20,8 @@
 # Programmer: Howard Townsend (NOAA/NMFS/OST/ Marine Ecosystems Division) 
 # Date: March 20, 2021
 #
-# Modified: 
-# Modifications: 
+# Modified: Apr 5, 2021
+# Modifications: Ouput csvs
 ############################################################################
 
 ############### Set up #############################################
