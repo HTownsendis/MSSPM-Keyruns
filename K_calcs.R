@@ -21,7 +21,7 @@
 ############################################################################
 
 ############### Set up #############################################
-#setwd("C:/Users/Howard.Townsend/Documents/EM Toolbox/MSSPM Projects/MSSPM-Keyruns")
+#setwd("C:/Users/Howard.Townsend/Documents/EM Toolbox/MSSPM Projects/MSSPM-Keyruns/noba_simdata")
 paste("Today is", date())
 
 library (readr)
