@@ -1,5 +1,5 @@
 library (readr)
-# setwd("C:/Users/Howard.Townsend/Documents/EM Toolbox/MSSPM Projects/noba_simdata")
+setwd("C:/Users/Howard.Townsend/Documents/EM Toolbox/MSSPM Projects/MSSPM-Keyruns/noba_simdata")
 
 
 urlfile="https://raw.githubusercontent.com/NOAA-EDAB/ms-keyrun/master/simulated-data/msinput/msspm/diet_BTS_fall_allbox_effic1.csv"
