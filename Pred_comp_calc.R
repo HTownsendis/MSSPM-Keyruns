@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #################### CODE SUMMARY ##########################################
 # Description: Calculates concumption/predation coefficents and overlap 
 # coefficients for multispecies surplus production models using biomass and
@@ -148,7 +147,6 @@ write.csv(overlap, "Competition coefficients.csv",row.names=spec_names)
 # 
 # overlap[is.na(overlap)] = 0
 # colnames(overlap) <- spec_names
-=======
 #################### CODE SUMMARY ##########################################
 # Description: Calculates concumption/predation coefficents and overlap 
 # coefficients for multispecies surplus production models using biomass and
@@ -298,4 +296,4 @@ write.csv(overlap, "Competition coefficients.csv",row.names=spec_names)
 # 
 # overlap[is.na(overlap)] = 0
 # colnames(overlap) <- spec_names
->>>>>>> 4bd0be25c878e5a951d2cbe9c8288dfbce1ee15b
+
