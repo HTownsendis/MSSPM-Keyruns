@@ -1,0 +1,11 @@
+,Atlantic cod,Atlantic herring,Atlantic mackerel,Goosefish,Haddock,Silver hake,Spiny dogfish,Summer flounder,Winter skate,Yellowtail flounder
+Atlantic cod,5.4e-07,-1.1e-08,0,1.8e-07,4.5e-08,0,4.5e-09,0,0,0
+Atlantic herring,5.4e-07,1.8e-07,4.5e-08,3.15e-07,0,0,2.25e-07,8.1e-07,2.25e-09,0
+Atlantic mackerel,9e-08,1.8e-07,9e-07,2.7e-07,0,0,5.4e-08,1.35e-07,9e-09,0
+Goosefish,0,0,0,9e-07,0,0,0,0,0,0
+Haddock,1.8e-07,0,0,0,3.6e-07,0,0,0,0,0
+Silver hake,4.5e-08,0,0,9e-08,0,9e-07,6.3e-08,7.2e-08,1.8e-08,0
+Spiny dogfish,0,-1.1e-07,0,0,0,0,6.75e-07,0,9e-09,0
+Summer flounder,0,-3.3e-08,0,0,0,0,0,5.31e-07,0,0
+Winter skate,0,-1.1e-07,0,0,0,0,1.8e-08,0,4.5e-07,0
+Yellowtail flounder,0,0,0,0,0,0,0,0,0,1.35e-06

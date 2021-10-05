@@ -1,0 +1,12 @@
+,Blue_whiting,Capelin,Green_halibut,Haddock,Long_rough_dab,Mackerel,North_atl_cod,Norwegian_ssh,Polar_cod,Redfish,Saithe
+Blue_whiting,0,0,1.075e-11,0,0,0,1.925e-13,0,0,1.035e-10,0
+Capelin,1.495e-10,0,0,7.95e-11,1.195e-10,0,1.525e-09,1.765e-11,0,0,3.165e-11
+Green_halibut,0,0,0,0,0,0,9.95e-12,0,0,0,0
+Haddock,0,0,0,3.645e-15,0,0,1.195e-11,0,0,4.35e-12,1.215e-12
+Long_rough_dab,0,0,0,9.6e-12,0,0,2.72e-11,0,0,0,0
+Mackerel,0,0,1.815e-12,0,0,0,0,0,0,0,0
+North_atl_cod,0,0,3.515e-11,2.895e-11,1.52e-11,0,4.975e-12,0,0,1.385e-11,8.05e-12
+Norwegian_ssh,2.33e-13,0,7.7e-12,4.345e-11,1.01e-11,0,1.34e-12,0,0,0,1.785e-11
+Polar_cod,0,0,0,0,6.95e-12,0,6.6e-12,0,0,0,0
+Redfish,2.32e-10,0,2.845e-11,0,0,0,6.6e-13,0,0,0,0
+Saithe,0,0,0,0,0,0,0,0,0,6.05e-12,0

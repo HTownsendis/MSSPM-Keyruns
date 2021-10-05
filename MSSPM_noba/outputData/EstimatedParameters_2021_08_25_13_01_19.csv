@@ -1,0 +1,37 @@
+Estimated Parameters
+Initial Absolute Biomass:
+Blue_whiting,5482789.20
+Capelin,3676897.62
+Green_halibut,1167156.79
+Haddock,92642.64
+Long_rough_dab,1239616.72
+Mackerel,4634563.11
+North_atl_cod,3466026.33
+Norwegian_ssh,2383304.36
+Polar_cod,2363217.80
+Redfish,2240934.40
+Saithe,3008285.56
+Growth Rate:
+Blue_whiting,0.524
+Capelin,0.696
+Green_halibut,0.167
+Haddock,0.419
+Long_rough_dab,0.085
+Mackerel,0.322
+North_atl_cod,1.377
+Norwegian_ssh,0.182
+Polar_cod,0.056
+Redfish,0.127
+Saithe,0.103
+Carrying Capacity:
+Blue_whiting,8634658.04
+Capelin,5256372.86
+Green_halibut,1592351.40
+Haddock,1193490.51
+Long_rough_dab,1740808.61
+Mackerel,6157965.60
+North_atl_cod,6044120.07
+Norwegian_ssh,3648844.53
+Polar_cod,3983785.26
+Redfish,3572782.86
+Saithe,14423481.60

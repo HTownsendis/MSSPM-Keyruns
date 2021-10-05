@@ -1,0 +1,50 @@
+Estimated Parameters
+Initial Absolute Biomass:
+Blue_whiting,5548993.97
+Capelin,4491219.58
+Green_halibut,1107410.69
+Haddock,104684.00
+Long_rough_dab,1080816.08
+Mackerel,4752889.26
+North_atl_cod,2936495.30
+Norwegian_ssh,2860056.67
+Polar_cod,2441003.20
+Redfish,2106148.61
+Saithe,2827345.80
+Growth Rate:
+Blue_whiting,0.448
+Capelin,0.913
+Green_halibut,0.147
+Haddock,0.360
+Long_rough_dab,0.114
+Mackerel,0.259
+North_atl_cod,1.728
+Norwegian_ssh,0.287
+Polar_cod,0.066
+Redfish,0.206
+Saithe,0.164
+Carrying Capacity:
+Blue_whiting,10226500.83
+Capelin,5010410.49
+Green_halibut,1664783.04
+Haddock,1448890.40
+Long_rough_dab,1907591.46
+Mackerel,5627400.87
+North_atl_cod,7039668.75
+Norwegian_ssh,3561868.29
+Polar_cod,4547599.65
+Redfish,3954731.02
+Saithe,21326880.90
+Predation (rho):
+ ,Blue_whiting,Capelin,Green_halibut,Haddock,Long_rough_dab,Mackerel,North_atl_cod,Norwegian_ssh,Polar_cod,Redfish,Saithe
+Blue_whiting,0.000e+00,0.000e+00,2.974e-10,0.000e+00,0.000e+00,0.000e+00,2.586e-12,0.000e+00,0.000e+00,1.714e-09,0.000e+00
+Capelin,1.634e-09,0.000e+00,0.000e+00,2.597e-09,2.446e-09,0.000e+00,3.145e-08,1.903e-11,0.000e+00,0.000e+00,6.379e-10
+Green_halibut,0.000e+00,0.000e+00,0.000e+00,0.000e+00,0.000e+00,0.000e+00,1.336e-10,0.000e+00,0.000e+00,0.000e+00,0.000e+00
+Haddock,0.000e+00,0.000e+00,0.000e+00,1.413e-13,0.000e+00,0.000e+00,4.839e-11,0.000e+00,0.000e+00,5.370e-12,3.570e-11
+Long_rough_dab,0.000e+00,0.000e+00,0.000e+00,3.196e-10,0.000e+00,0.000e+00,3.654e-10,0.000e+00,0.000e+00,0.000e+00,0.000e+00
+Mackerel,0.000e+00,0.000e+00,6.780e-11,0.000e+00,0.000e+00,0.000e+00,0.000e+00,0.000e+00,0.000e+00,0.000e+00,0.000e+00
+North_atl_cod,0.000e+00,0.000e+00,1.022e-09,5.790e-10,5.892e-10,0.000e+00,6.682e-11,0.000e+00,0.000e+00,1.341e-10,1.497e-10
+Norwegian_ssh,9.032e-12,0.000e+00,2.997e-10,1.426e-09,1.247e-11,0.000e+00,5.195e-11,0.000e+00,0.000e+00,0.000e+00,4.435e-10
+Polar_cod,0.000e+00,0.000e+00,0.000e+00,0.000e+00,2.694e-10,0.000e+00,8.865e-11,0.000e+00,0.000e+00,0.000e+00,0.000e+00
+Redfish,1.810e-09,0.000e+00,8.671e-10,0.000e+00,0.000e+00,0.000e+00,8.865e-12,0.000e+00,0.000e+00,0.000e+00,0.000e+00
+Saithe,0.000e+00,0.000e+00,0.000e+00,0.000e+00,0.000e+00,0.000e+00,0.000e+00,0.000e+00,0.000e+00,6.523e-12,0.000e+00

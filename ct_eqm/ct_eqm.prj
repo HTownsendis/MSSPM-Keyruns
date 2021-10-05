@@ -1,0 +1,11 @@
+#
+# This is an MSSPM Project file.
+#
+# It defines the Project database as well as other
+# information for the Project. The following data are:
+# Project directory, Project database, Author, and Description.
+#
+C:/Users/Howard.Townsend/Documents/EM Toolbox/MSSPM Projects/MSSPM-Keyruns/ct_eqm
+ct_eqm
+Howard Townsend
+Comparison testing MSSPM with simulated data from Rob's MSSPM model
